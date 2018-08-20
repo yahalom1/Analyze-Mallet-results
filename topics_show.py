@@ -1,4 +1,3 @@
-#!/user/bin/env python
 import sys
 import os
 from spyre import server
