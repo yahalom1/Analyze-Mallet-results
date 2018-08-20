@@ -3,14 +3,15 @@ Analyze-Mallet-results is an offline web application that allowing analyze resul
 
 ### Required software
  * Python 2.7 interpreter
- * [Spyre library](https://github.com/adamhajari/spyre)
  * *[cherrypy]*, with *[jinja2]* templating
+ * *[matplotlib]*
  * *[NumPy]*
  * *[Pandas]*
+ * *[Pypi (python-bidi)]*
  * *[Seaborn]*
  * *[Sklearn]*
- * *[Pypi (python-bidi)]*
-  * *[matplotlib]*
+ * *[Spyre library](https://github.com/adamhajari/spyre)]*
+ 
 
 
 [cherrypy]:http://docs.cherrypy.org/en/latest/install.html
